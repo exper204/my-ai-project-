@@ -1,4 +1,4 @@
-# Pilkhuwa Drone Pothole Patrol
+## Pilkhuwa Drone Pothole Patrol
 Final project for the Building AI course
 Summary
 This project uses AI and drone camera footage to identify and map damaged roads and potholes around Pilkhuwa. The goal is to help local authorities locate and fix road hazards much faster.
